@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<odoo>
+    <template id="assets_backend" name="helpdesk assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/ag_tree/static/src/js/ag_tree.js"/>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.10/jstree.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jstreegrid/3.2.1/jstreegrid.min.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.10/themes/default/style.min.css" />
+            <link rel="stylesheet" href="/ag_tree/static/src/css/ag_tree.css" />
+        </xpath>
+    </template>
+</odoo>

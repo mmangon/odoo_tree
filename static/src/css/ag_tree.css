@@ -1,0 +1,23 @@
+/* #add_record {
+  color: #fff;
+  background-color: #5D8DA8;
+  border: none;
+  padding: 7px 16px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+} */
+
+.o_ag_tree {
+  width: 100% !important;
+}
+
+.no_data_display{
+  color: #004085;
+  background-color: #CCE5FF;
+  border-color: #B8DAFF;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+}
