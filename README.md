@@ -1,4 +1,4 @@
-Tree for Odoo
+[W.I.P]Tree for Odoo
 ========
 
 This widget is an Odoo integration of `jQuery jstree <https://github.com/vakata/jstree/>`_
